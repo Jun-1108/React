@@ -1,7 +1,7 @@
 # React
 ## 실행과정
 ### 사이트 링크
-<a href=https://e230401.ksecole.kr/>React 사이트</a><br>
+<a href=https://e230401.ksecole.kr/>https://e230401.ksecole.kr/</a><br>
   
 ### PC에서 실행하였을때 화면입니다.<br>
 ![웹 캡처_28-10-2023_64430_localhost](https://github.com/Jun-1108/React/assets/48702150/59873a6e-3527-4076-8eca-f7eae67a10e6)<br><br>
